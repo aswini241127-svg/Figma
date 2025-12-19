@@ -33,6 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+```
 page 1
 
 <!DOCTYPE html>
@@ -488,7 +489,7 @@ a {
   white-space: nowrap;
 }
 
-
+```
 ## OUTPUT:
 
 ![alt text](figma.jpeg)
